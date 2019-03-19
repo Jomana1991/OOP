@@ -1,4 +1,5 @@
 <?php
+namespace BookClass; 
 
 Class Book  { 
 private $bookName;
@@ -57,25 +58,11 @@ print_r ($newbook);
 //Function remove_book () {}
 //Function remove author
 //Function update author info
-//Function add author
 
-// useage
-//echo $newbook-> multidimensional_array_search('Harry Potter',$books);
-    
-//Class locations 
-//$location
-//
-//loan class {
-//
-// }
 
-//$newbook->bookName = 'Harry Potter';
-//$newbook->authorFirstName = 'JK';
-//$newbook->authorLastName = 'Rowling';
 
-//$newbook->set_properties(array('bookname'=> 'Harry Potter', 'authorFirstName'=> 
-//    'JK', 'authorLastName'=>'Rowling'));
-//
+
+
 
 
 
